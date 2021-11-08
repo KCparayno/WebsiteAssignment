@@ -1,0 +1,158 @@
+/*h1,
+h3 { color:red;
+     font-size: 40px;
+    font-style: italic;
+    font-family: sans-serif
+    font-weight:200;
+    
+    
+}
+
+
+/*p{
+    text-align: center;
+     color:teal;
+}
+
+ .header-2 
+
+{
+    color:navy;
+}
+
+ #class-3{
+ color:teal;
+}
+a:hover
+{
+    color:blue;
+    background: yellow;
+    text-decoration:underline;
+    font-weight:bolder;
+    font size:  25px;
+}
+li:nth-child(odd){
+    color:green;
+
+}
+a:active
+{
+color:orange;
+
+aside
+{
+border-top:5px dotted black;
+border-bottom:5px solid green;
+border-left:5px solid blue;
+border-right:5px solid red; 
+
+}*/
+.main-header {
+  color:teal;
+  padding: 30px;
+  border-top:10px solid teal ;
+}
+
+.header-container {
+  border-top: 5px teal;
+  padding: 10px;
+}
+
+.aside-container {
+  border-top: px solid teal;
+  padding: 10px;
+}
+
+.article-container {
+  border-bottom: 5px solid teal;
+  
+  padding: 10px;
+}
+
+.footer-container {
+  border-top: 5px solid brown;
+  padding: 10px;
+}
+
+.container {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a:visited {
+  color:teal;
+}
+
+a:hover {
+  color: red;
+  background-color: green;
+}
+
+a:active {
+  color: orange;
+}
+
+li:first-child {
+  font-weight: bold;
+}
+
+
+/* article p:nth-last-child(1) {
+  color: red;
+} */
+
+h1::first-letter {
+  color: green;
+}
+
+h1::after {
+  content: "TOP";
+  background-color: yellow;
+  font-size: 11px;
+  color:black;
+  font-weight: bold;
+  /* display: inline-block; */
+  position: absolute;
+  top: 28%;
+  text-align: center;
+  
+}
+
+h1 {
+  background-color:whitesmoke;z
+  padding: 10px 10px;
+  margin: 5px 10px;
+  /* float: left; */
+}
+
+aside {
+  background-color:whitesmoke;
+  border: 10px teal;
+}
+
+a{
+  text-decoration: none;
+  color:teal;
+}
+.h1,h2,h3{ 
+  color: teal;
+}
+.aside-container {
+  border-top: 5px solid teal;
+  padding: 10px;}
+.h4{
+  text-align: center;
+  width:400;
+}
+nav{
+  text-align:justify;
+  top:16%;
+ 
+  position:absolute;
+}
+button{
+  position: absolute;
+  right: 30px;
+  top:250%;
+}
